@@ -7,7 +7,7 @@ Thank you **xOR** for your great tutorial!
 All credits go to him, I just sinked it into code.
 
 For details, in German, visit:
-https://ngb.to/t/26584-Workshop-Hand-Verschlüsselung
+[https://ngb.to/t/26584-Workshop-Hand-Verschlüsselung](https://ngb.to/threads/xors-workshop-hand-verschl%C3%BCsslung-in-code.27001/)
 
 ## Usage
 
